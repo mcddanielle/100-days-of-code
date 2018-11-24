@@ -56,7 +56,7 @@ https://www.dataquest.io/blog/web-scraping-tutorial-python/
 
 **Link(s) to work**: 
 /home/danielle/Codes_Scripts/web_scrape_tutorial
-
+https://github.com/mcddanielle/web_scrape_tutorial.git
 ###########################################################################
 ### Day 2: November 25, 2018 ( )
 ##### ()
